@@ -1,3 +1,1 @@
-# Project-7
-
-Online Payment Fraud Detection
+# Project-7 - Online Payment Fraud Detection
